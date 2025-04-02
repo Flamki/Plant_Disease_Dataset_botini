@@ -1,4 +1,4 @@
-tensorflow>=2.12.0
+tensorflow-cpu>=2.12.0  # Instead of tensorflow
 streamlit>=1.32.0
 pandas>=2.0.0
 pillow>=10.0.0
